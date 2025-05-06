@@ -1,0 +1,9 @@
+body {
+    background: #000000;
+    color: #ffffff;
+}
+
+.campaignform {
+    background: url('./assets/images/campaignbg.jpg') no-repeat center center fixed;
+    color: #ffffff;
+}
